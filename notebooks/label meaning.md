@@ -1,4 +1,3 @@
-
 ### Labels 0–19
 
 | ID | Label                                                             | Meaning                                                                       |
